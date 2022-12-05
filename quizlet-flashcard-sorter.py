@@ -5,7 +5,6 @@ target = "raw_data.csv" # change me to the data you want to sort
 # builds the key:value pairs into their own list's indices
 fh = open(target, "r"); 
 
-
 keywords = []
 descriptions = []
 
